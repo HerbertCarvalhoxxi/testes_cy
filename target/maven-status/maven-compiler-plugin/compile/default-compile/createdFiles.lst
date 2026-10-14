@@ -1,0 +1,5 @@
+com\xmen\sentinela\domain\TipoAlvo.class
+com\xmen\sentinela\service\SentinelaService.class
+com\xmen\sentinela\domain\Sentinela.class
+com\xmen\sentinela\domain\NivelAmeaca.class
+com\xmen\sentinela\domain\Alvo.class
